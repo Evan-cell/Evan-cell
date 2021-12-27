@@ -39,4 +39,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=evan-cell&show_icons=true&locale=en" alt="evan-cell" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=evan-cell&" alt="evan-cell" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=evan-cell&" alt="evan-cell" color="black" /></p>
