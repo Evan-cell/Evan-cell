@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Evan</h1>
-<h3 align="center">A passionate Fullstack Developer developer from Kenya</h3>
+<h3 align="center">A passionate Fullstack Developer  from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evan-cell&label=Profile%20views&color=0e75b6&style=flat" alt="evan-cell" /> </p>
 
