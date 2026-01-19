@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Angular-quotes](https://github.com/Evan-cell/angular-quotes)
+- 🔭 I’m currently working on [AI Projects]()
 
-- 🌱 I’m currently working with **React,Angular,Django,Flask,Javascript,css,html5,Bootsrap5,Material ui,Materialize,Tallwindcss,Nextjs,React-Native**
+- 🌱 I’m currently working with **React,Angular,NextJs,Nodejs,Mongodb,Express,Django,Flask,Javascript,Tailwindcss,Shadcn,Bootsrap5,Material ui,Materialize,Tallwindcss,Nextjs,React-Native**
 
-- 👯 I’m looking to collaborate on [instagram clone](https://github.com/Evan-cell/instagram)
+- 👯 I’m looking to collaborate on [Ai Medical project](https://github.com/Evan-cell/instagram)
 
 - 🤝 I’m looking to Upgrade on [awwards](https://github.com/Evan-cell/awwards)
 
@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **malcomiz0582@gmail.com**
 
-- 📄 Know about my experiences [https://devkm-portfolio.netlify.app/](https://devkm-portfolio.netlify.app/)
+- 📄 Know about my experiences [https://evan-five.vercel.app/](https://evan-five.vercel.app/)
 
 - ⚡ Fun fact **Always ready and set to code**
 
